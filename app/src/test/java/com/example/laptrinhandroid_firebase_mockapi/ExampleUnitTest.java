@@ -1,4 +1,4 @@
-package com.example.loginfirebase;
+package com.example.laptrinhandroid_firebase_mockapi;
 
 import org.junit.Test;
 

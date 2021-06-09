@@ -1,4 +1,4 @@
-package com.example.loginfirebase;
+package com.example.laptrinhandroid_firebase_mockapi;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.loginfirebase", appContext.getPackageName());
+        assertEquals("com.example.laptrinhandroid_firebase_mockapi", appContext.getPackageName());
     }
 }
